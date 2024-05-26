@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color:red;
+}
+
+img:hover{
+    background-color: rgb(237, 51, 88);
+}
+
+
+.bacon{
+    background-color: khaki;
+}
+
+.broccoli{
+    background-color: darksalmon;
+}
